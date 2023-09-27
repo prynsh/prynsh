@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **priyansh2112@gmail.com**
+- 📫Reach me at **priyansh2112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
