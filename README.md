@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Verma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web3 and Advance Development**
 
 - 👨‍💻 All of my projects are available at [http://minimal-portfolio-taupe.vercel.app/](http://minimal-portfolio-taupe.vercel.app/)
 
