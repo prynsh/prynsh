@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web3 and Advance Development**
 
-- 👨‍💻 All of my projects are available at [http://minimal-portfolio-taupe.vercel.app/](http://minimal-portfolio-taupe.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.prynsh.xyz/](https://www.prynsh.xyz/)
 
 - 📫Reach me at **prynsshh@gmail.com**
 
